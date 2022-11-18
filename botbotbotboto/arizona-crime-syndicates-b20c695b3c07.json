@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "arizona-crime-syndicates",
+  "private_key_id": "b20c695b3c07f44b5da349356742ef1d605978e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoQB3XFEjIaW2W\nVKNeuWh4kvvUfn1HiuSJSP93dVkg7UpKNk5R/44fB2I33AWNAFregBwWXp0wErny\nEPEw39daJ4SQY3IjvFNMngb7gWI0kJZErk7ZbAXe5qiYqHuaIyOZfT7Yy2fPcbdT\nBAXv6eKEt6zNJSiCywv+w/Oz5Rg4ATHl/+LlKVzd2H4t68e7ynFgrUNs4we4Ju8+\n5nQQRra0J99cuRITp8WK3dKat+4ej2jTJvnsN/19oGOkfGPLY/FYXK8MpiZa727P\nqSodc8nkC1dnmLgewMAhW0j2LuzLKkr8qe1dFmyDgHR4w3gIRXJ3yo2vr1Ig7g9H\n20pSfdOHAgMBAAECggEABNGZSTCuiPbkCZsw9qSOxm1HQyXARs1GkFwD3RMCU3wY\nVZnKknSkSGU4verSSeCJubenlkhtbhQLOVCc585xZ4acOFpwyW86X4ZjIs7o1iKR\n+zOW1IlQfbrTd1PT/m0lNt8sbp8cwQc7veful5l2QGDWVSXMTDquhERudWeJUwlB\n1NGKYhMkjmZR835x7waU8UNOW+CY5aWgMCVLKTYEZVMKpPnx0iBwx0JGeHmWDby2\nQvEvePSJakVDskGn48QLDr403t98FoUh5xPA7INlro0ufzR6G/Hy8JwazqTqL0EC\nME8jFMktBdp7xfOupUJZeaLZuyoLo8+N7hebaS7NmQKBgQDV/keKjMD251jGAVt9\nByb7QXCPh9fNlIRbeLeGYKszHylp9lvICSOlWfArMYSP+LRyQvhxp/DTs3LyxGUN\nwK4GGVN0PgCsAJ5D91SjrRQJL42zNirb9YaRMbXM6JUeOLgBy27w4KP7hai43n43\n/0C6lx8M0/IKhOEwz6WecOzPkwKBgQDJRyQQYpCu2zz6WPjXzYb18EkqZAbkuiLN\n6BQEqqxX5Cz4mj9yrMgyPD3AIZbb2nb9s9q7zVi07oAYsqA/47Z9EvJeh60e+Of0\nZc+u6OWotTD8HErm4MwiT+4fV/hY2KjqxMH0/sx7wyB6fHnQelt/R1NYwiEBhpxi\nZ6Iq4wmcvQKBgQCucrZ7mjcMkJhsAltE13nNxhEu0Pz6GKK1tvlV0KR/7l1ihnVX\n4ytt9p21eI6ql4LyyumiLdhDnLyOb9A5n+O+ERNZZdpCXdanbY9QRx5YRq3rdLMH\n0WY8IxwjyU8W7gIDZIYyU88akmFzI94dZDauZdfoKzfbn2u80Oog+cnzhQKBgEy3\nO8yu9LxgvZ4h2T7PjFgi7JAmreXx+CAJC9A3iRa61lUu3W4E4w0anuKjKs/DNcU/\nDuizvNLBcLt5IdEYJs8HMK/NALQkZKxnPcBJ7nbeELyWwAm9trCBTJ5Ptk2Oztsk\ngVSy5Rdq6O8mkHtgl40sj1zuKQxe1S5Al7PG8zv1AoGAFt41yh4Wh7tdqSx2vUsE\nKRJTrDJCZH2hKCQOMOwTCOlvtUi5oyN1V9Iu1LfuE9wf6HBYK6pZDCCZwgX9Ww20\n4VZjjW2xJXePK6F4l9EVkSyusFCAZUbMlRdOofE21Gof5xWaNyIb1u3MSV3Wc8n2\nQ/ys2xGlGAzwK1CTUzCwd9U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tucson-crime-syndicates@arizona-crime-syndicates.iam.gserviceaccount.com",
+  "client_id": "101662045361558977875",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tucson-crime-syndicates%40arizona-crime-syndicates.iam.gserviceaccount.com"
+}
+  

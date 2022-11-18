@@ -1,0 +1,6 @@
+
+token = "vk1.a.QHA9DIjtF40SJyUt4zbTdKq3L5ZmxjbIMQXYvJ2rebFcZcPHGZb9PPSaPsQCcLtxe8LrGuYIeVoUBd0xaicOYpkMNs-ly6jY8NUbIo6PsOd_FlKbbUUURnwvHSggU3Esx_udFeGQGRhkBbmvtUgvttmjqIwt-mgPtSsBGOGVv4oEDCX2zB4CZ9X85zNJFXFk"
+
+admin_id = 210828253
+
+ 
